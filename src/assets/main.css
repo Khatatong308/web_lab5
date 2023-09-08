@@ -1,0 +1,24 @@
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+img{
+  height: 400px;
+  weight:1000px;
+
+}
+body{
+  background-color: bisque;
+}
+h1{
+  display: flex;
+  justify-content: center;
+}
+.con{
+  display: grid;
+  place-items: center;
+
+}
+.tab{ padding-left: 90px }
